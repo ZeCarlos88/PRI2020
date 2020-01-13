@@ -1,0 +1,15 @@
+Quantos Tipologias estão catalogadas? 
+clav-api.dglab.gov.pt/api/tipologias?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1Nzg4NjAwNTQsImV4cCI6MTU4MTQ1MjA1NH0.HIlH4_Ao6504qaLhhbZ2_OtDzaZaG5FeYy-Yc2d9lwQ
+Resposta: 76
+
+Quantos Entidades pertencem à Tipologia tip_FSS?
+clav-api.dglab.gov.pt/api/tipologias/tip_FSS/elementos?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1Nzg4NjAwNTQsImV4cCI6MTU4MTQ1MjA1NH0.HIlH4_Ao6504qaLhhbZ2_OtDzaZaG5FeYy-Yc2d9lwQ
+Resposta: 5
+
+Em que processos a tipologia tip_FA participa como Comunicador?
+clav-api.dglab.gov.pt/api/tipologias/tip_FA/intervencao/participante?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1Nzg4NjAwNTQsImV4cCI6MTU4MTQ1MjA1NH0.HIlH4_Ao6504qaLhhbZ2_OtDzaZaG5FeYy-Yc2d9lwQ
+Resposta: 5 "tipoPar": "temParticipanteComunicador"
+
+A que tipologias pertence a entidade ent_SEF?
+clav-api.dglab.gov.pt/api/entidades/ent_SEF/tipologias?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1Nzg4NjAwNTQsImV4cCI6MTU4MTQ1MjA1NH0.HIlH4_Ao6504qaLhhbZ2_OtDzaZaG5FeYy-Yc2d9lwQ
+Resposta: 2

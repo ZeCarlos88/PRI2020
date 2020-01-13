@@ -1,0 +1,18 @@
+extends layout
+
+block content
+    .w3-container
+        h1 Lista de Tipologias CLAV
+        table.w3-table-all
+            tr
+                th Estado
+                th Sigla
+                th Designação
+                th Id
+            each tipologia in lista
+                tr
+                    td= tipologia.estado
+                    td= tipologia.sigla
+                    td= tipologia.designacao
+                    td  
+                        a(href='/'+tipologia.id)= tipologia.id 
